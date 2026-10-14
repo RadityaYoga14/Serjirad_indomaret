@@ -1,0 +1,7 @@
+.form-panel {
+    max-width: 980px;
+}
+
+.form-field input[value] {
+    background-color: #ffffff;
+}

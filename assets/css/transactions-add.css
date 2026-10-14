@@ -1,0 +1,8 @@
+.form-panel {
+    max-width: 980px;
+    border-top: 4px solid var(--app-blue);
+}
+
+.form-actions .btn-primary {
+    min-width: 160px;
+}

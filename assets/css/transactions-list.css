@@ -1,0 +1,8 @@
+.data-table td:nth-child(3) {
+    color: var(--app-blue);
+    font-weight: 800;
+}
+
+.table-panel {
+    border-top: 4px solid var(--app-blue);
+}

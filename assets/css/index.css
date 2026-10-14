@@ -1,0 +1,8 @@
+.quick-grid .section-panel:last-child {
+    background: linear-gradient(180deg, #ffffff, #fffbea);
+}
+
+.metric-card:first-child .metric-icon {
+    color: #854d0e;
+    background: #fef3c7;
+}

@@ -1,0 +1,7 @@
+.form-panel {
+    max-width: 980px;
+}
+
+.form-field.full textarea {
+    min-height: 130px;
+}

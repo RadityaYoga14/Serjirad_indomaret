@@ -1,0 +1,7 @@
+.metric-grid .metric-card:first-child {
+    border-color: rgba(29, 78, 216, 0.28);
+}
+
+.metric-grid .metric-card:first-child strong {
+    color: var(--app-blue);
+}
