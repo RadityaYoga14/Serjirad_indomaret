@@ -77,9 +77,9 @@ $navItems = [
                 <?php endforeach; ?>
             </nav>
 
-            <div class="sidebar-note">
+            <!-- <div class="sidebar-note">
                 Desain sudah disiapkan sebagai tampilan statis. Logika database bisa kamu sambungkan pelan-pelan setelah UI-nya beres.
-            </div>
+            </div> -->
         </aside>
 
         <main class="main-panel">
@@ -88,8 +88,8 @@ $navItems = [
                     <p class="page-kicker">Panel administrasi</p>
                     <h1 class="page-title"><?= htmlspecialchars($pageTitle); ?></h1>
                 </div>
-                <div class="topbar-status">
+                <!-- <div class="topbar-status">
                     <span class="status-dot"></span>
                     Siap dipakai
-                </div>
+                </div> -->
             </header>

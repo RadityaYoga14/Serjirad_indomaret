@@ -20,19 +20,19 @@ include '../includes/header.php';
 
         <div class="metric-grid">
             <article class="metric-card">
-                <div class="metric-icon">Rp</div>
+                <!-- <div class="metric-icon">Rp</div> -->
                 <div><strong>1,25 jt</strong><span>Penjualan</span></div>
             </article>
             <article class="metric-card">
-                <div class="metric-icon">#</div>
+                <!-- <div class="metric-icon">#</div> -->
                 <div><strong>48</strong><span>Transaksi</span></div>
             </article>
             <article class="metric-card">
-                <div class="metric-icon">B</div>
+                <!-- <div class="metric-icon">B</div> -->
                 <div><strong>126</strong><span>Produk aktif</span></div>
             </article>
             <article class="metric-card">
-                <div class="metric-icon">D</div>
+                <!-- <div class="metric-icon">D</div> -->
                 <div><strong>82 rb</strong><span>Donasi terkumpul</span></div>
             </article>
         </div>
