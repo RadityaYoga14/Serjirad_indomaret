@@ -10,7 +10,7 @@ include '../includes/header.php';
         <div class="panel-header">
             <div>
                 <h2 class="panel-title">Ringkasan toko hari ini</h2>
-                <p class="panel-copy">Tampilan awal untuk memantau produk, kasir, donasi, dan transaksi.</p>
+                <p class="panel-copy">Tampilan awal untu    k memantau produk, kasir, donasi, dan transaksi.</p>
             </div>
             <div class="action-row">
                 <a class="btn btn-primary" href="<?= app_url('pages/transactions/add.php'); ?>">Buat transaksi</a>

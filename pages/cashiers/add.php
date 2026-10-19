@@ -13,7 +13,7 @@ include '../../includes/header.php';
         </div>
     </div>
 
-    <form action="#" method="post">
+    <form action="../../process/cashiers_process.php" method="post">
         <div class="form-grid">
             <div class="form-field">
                 <label for="cashier_id">ID kasir</label>
@@ -23,14 +23,14 @@ include '../../includes/header.php';
                 <label for="cashier_name">Nama kasir</label>
                 <input class="form-control" id="cashier_name" name="cashier_name" type="text" placeholder="Nama lengkap">
             </div>
-            <div class="form-field">
+            <!-- <div class="form-field">
                 <label for="shift">Shift</label>
                 <select class="form-select" id="shift" name="shift">
                     <option>Pagi</option>
                     <option>Siang</option>
                     <option>Malam</option>
                 </select>
-            </div>
+            </div> -->
             <div class="form-field">
                 <label for="phone">No. HP</label>
                 <input class="form-control" id="phone" name="phone" type="tel" placeholder="08xx-xxxx-xxxx">

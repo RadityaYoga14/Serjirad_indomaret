@@ -49,7 +49,7 @@ $navItems = [
     <div class="app-shell">
         <aside class="sidebar">
             <div class="brand">
-                <div class="brand-mark">I</div>
+                <!-- <div class="brand-mark">I</div> -->
                 <div>
                     <p class="brand-name">Indomaret RPL 4</p>
                     <p class="brand-subtitle">Sistem kasir sekolah</p>
