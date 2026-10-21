@@ -15,10 +15,11 @@ include '../../includes/header.php';
 
     <form action="../../process/cashiers_process.php" method="post">
         <div class="form-grid">
-            <div class="form-field">
+            <input type="hidden" name="action" >
+            <!-- <div class="form-field">
                 <label for="cashier_id">ID kasir</label>
                 <input class="form-control" id="cashier_id" name="cashier_id" type="text" placeholder="KSR003">
-            </div>
+            </div> -->
             <div class="form-field">
                 <label for="cashier_name">Nama kasir</label>
                 <input class="form-control" id="cashier_name" name="cashier_name" type="text" placeholder="Nama lengkap">
